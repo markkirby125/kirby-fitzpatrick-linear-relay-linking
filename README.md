@@ -1,0 +1,33 @@
+# kirby-fitzpatrick-linear-relay-linking
+
+Transfer the comment payload of each sentence into the topic doorstep of the next.
+
+---
+## Attribution & Provenance
+
+* **Original Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "The Top 1% of Experts Think on Paper—Here's How"
+* **Direct Video URL**: https://www.youtube.com/watch?v=VkXMlrvq29o
+---
+
+## Overview
+
+The **kirby-fitzpatrick-linear-relay-linking** skill transforms cognitive writing science into deterministic rules for AI coding assistants, code reviews, and system documentation.
+
+## Quick Installation & Universal Setup
+
+Add this skill directly to your coding assistant by pasting the **Magic Prompt** below into your agent chat:
+
+```markdown
+@agent Install the "kirby-fitzpatrick-linear-relay-linking" skill:
+1. Ensure ~/.gemini/config/skills, ~/.cursor/skills, ~/.cursor/skills-cursor, ~/.codeium/windsurf/skills, ~/.grok/skills, ~/.kimi-code/skills, and ~/.reasonix/skills exist.
+2. Clone https://github.com/markkirby125/kirby-fitzpatrick-linear-relay-linking.git to ~/.agents/skills/kirby-fitzpatrick-linear-relay-linking.
+3. Symlink ~/.agents/skills/kirby-fitzpatrick-linear-relay-linking to all local AI app skill directories.
+```
+
+## Core Patterns
+
+- **Linear Relay Linking**: Linear relay chaining: the Comment (novel end payload) of Sentence N becomes the Topic (opening anchor) of Sentence N+1, forging an unbroken chain of causality.
+- **Practical Application**: Step-by-step algorithms, sequential pipeline documentation, and execution trace walkthroughs.
+- **Verification Gate**: Enforces clean syntax, zero filler, and deterministic causality.
