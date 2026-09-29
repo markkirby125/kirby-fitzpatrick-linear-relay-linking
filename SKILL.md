@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-linear-relay-linking
-description: "Transfer the comment payload of each sentence into the topic doorstep of the next." Use this when working on fitzpatrick linear relay linking.
+description: "Transfer the comment payload of each sentence into the topic doorstep of the next. Use this when working on fitzpatrick linear relay linking."
 category: "Writing & Communication"
 triggers:
   - "linear relay linking"
