@@ -9,7 +9,7 @@ triggers:
   - "sequential flow"
   - "paragraph momentum"
 risk: unverified
-author: william-fitzpatrick
+author: paul-kirby
 tags: [kirby, ai-agent, workflow]
 ---
 
